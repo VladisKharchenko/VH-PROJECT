@@ -36,11 +36,11 @@ let burgerMenuListItemFour = document.querySelector('.burger-menu__list-item_act
 
 image.onmouseover = function(){
  burgerMenuListItemOne.classList.add('burger-menu__img_go');
- this.src = '../images/Menu-1-go.png';
+ this.src = './images/Menu-1-go.png';
 }
 image.onmouseout = function(){
  burgerMenuListItemOne.classList.remove('burger-menu__img_go');
- this.src = '../images/Menu-1.png';
+ this.src = './images/Menu-1.png';
 }
 
 image2.onmouseover = function(){
