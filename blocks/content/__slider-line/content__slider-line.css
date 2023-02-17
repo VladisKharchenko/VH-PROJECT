@@ -1,0 +1,7 @@
+.content__slider-line {
+  width: 1400px;
+  display: flex;
+  position: relative;
+  left : 0;
+  transition: all ease 1s;
+}

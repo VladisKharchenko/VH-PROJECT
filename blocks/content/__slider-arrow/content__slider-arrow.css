@@ -1,0 +1,13 @@
+.content__slider-arrow {
+  padding: 0;
+  border: 0;
+  width: 29.64px;
+  height: 48px;
+  background: #ffffff;
+  cursor: pointer;
+}
+
+@media (max-width: 833px) {
+  .content__slider-arrow {
+  }
+}

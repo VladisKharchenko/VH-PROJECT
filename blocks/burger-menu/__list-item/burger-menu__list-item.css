@@ -1,0 +1,8 @@
+.burger-menu__list-item {
+  cursor: pointer;
+  height: 70px;
+}
+
+.burger-menu__list-item:last-of-type {
+  margin-bottom: 0;
+}

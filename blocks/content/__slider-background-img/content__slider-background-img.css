@@ -1,0 +1,14 @@
+.content__slider-background-img {
+  object-fit: cover;
+  width: 494px;
+  height: 523px;
+  z-index: -1;
+  position: absolute;
+}
+
+@media (max-width: 1279px) {
+  .content__slider-background-img {
+    width: 354px;
+    height: 375px;
+  }
+}

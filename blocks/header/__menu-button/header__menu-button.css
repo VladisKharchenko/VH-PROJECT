@@ -1,0 +1,21 @@
+.header__menu-button {
+  background-color: #ffffff;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  width: 33px;
+  height: 22px;
+  align-self: center;
+}
+
+@media (max-width: 1279px) {
+  .header__menu-button {
+    height: 18.87px;
+  }
+}
+
+@media (max-width: 833px) {
+  .header__menu-button {
+    height: 23.37px;
+  }
+}

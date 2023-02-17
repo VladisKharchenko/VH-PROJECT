@@ -1,0 +1,16 @@
+.burger-menu__close-button {
+  background-color: #ffffff;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  width: 25.67px;
+  height: 25.67px;
+  align-self: flex-end;
+  margin-top: 29.17px;
+  margin-right: 21.17px;
+}
+
+.burger-menu__close-button:hover {
+  opacity: 0.6;
+  transition: opacity .2s linear;
+}

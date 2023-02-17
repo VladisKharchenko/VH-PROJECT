@@ -1,0 +1,17 @@
+.content__block {
+  margin-top: 285px;
+}
+
+@media (max-width: 1279px) {
+  .content__block {
+    margin-top: 199px;
+  }
+}
+
+@media (max-width: 833px) {
+  .content__block {
+    order: 1;
+    margin-top: 12px;
+    margin-bottom: 177px;
+  }
+}

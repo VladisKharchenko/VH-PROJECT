@@ -1,0 +1,23 @@
+.content__slider-background {
+  width: 494px;
+  height: 523px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 150px;
+  overflow: hidden;
+}
+
+@media (max-width: 1279px) {
+  .content__slider-background {
+    margin-left: 0;
+    width: 312px;
+    height: 375px;
+  }
+}
+
+@media (max-width: 833px) {
+  .content__slider-background {
+    width: 354px;
+  }
+}

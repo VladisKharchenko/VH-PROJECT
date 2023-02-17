@@ -1,0 +1,12 @@
+.header__telephon-number-link {
+  color: #000000;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  text-decoration: none;
+}
+
+.header__telephon-number-link:hover {
+  opacity: 0.6;
+  transition: opacity .2s linear;
+}

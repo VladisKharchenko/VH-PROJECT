@@ -1,0 +1,25 @@
+.content__slider-arrows {
+  margin-top: 36px;
+  display: flex;
+  justify-content: space-between;
+  width: 128px;
+  margin-right: 147px;
+  margin-bottom: 171px;
+}
+
+@media (max-width: 1279px) {
+  .content__slider-arrows {
+    margin-top: 30px;
+    margin-right: 80px;
+    margin-bottom: 264px;
+  }
+}
+
+@media (max-width: 833px) {
+  .content__slider-arrows {
+    margin-top: 11px;
+    margin-right: 53px;
+    width: 84px;
+    margin-bottom: 0;
+  }
+}

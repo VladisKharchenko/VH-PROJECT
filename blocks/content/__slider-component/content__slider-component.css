@@ -1,0 +1,14 @@
+.content__slider-component {
+  object-fit: cover;
+  width: 450px;
+  height: 400px;
+  position: relative;
+  margin-left: 15px;
+}
+
+@media (max-width: 1279px) {
+  .content__slider-component {
+    width: 309px;
+    height: 309px;
+  }
+}
