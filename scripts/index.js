@@ -45,29 +45,29 @@ image.onmouseout = function(){
 
 image2.onmouseover = function(){
   burgerMenuListItemTwo.classList.add('burger-menu__img_go');
-  this.src = '../images/Menu-2-go.png';
+  this.src = './images/Menu-2-go.png';
  }
  image2.onmouseout = function(){
   burgerMenuListItemTwo.classList.remove('burger-menu__img_go');
-  this.src = '../images/Menu-2.png';
+  this.src = './images/Menu-2.png';
  }
 
  image3.onmouseover = function(){
   burgerMenuListItemThree.classList.add('burger-menu__img_go');
-  this.src = '../images/Menu-3-go.png';
+  this.src = './images/Menu-3-go.png';
  }
  image3.onmouseout = function(){
   burgerMenuListItemThree.classList.remove('burger-menu__img_go');
-  this.src = '../images/Menu-3.png';
+  this.src = './images/Menu-3.png';
  }
 
  image4.onmouseover = function(){
   burgerMenuListItemFour.classList.add('burger-menu__img_go');
-  this.src = '../images/Menu-4-go.png';
+  this.src = './images/Menu-4-go.png';
  }
  image4.onmouseout = function(){
   burgerMenuListItemFour.classList.remove('burger-menu__img_go');
-  this.src = '../images/Menu-4.png';
+  this.src = './images/Menu-4.png';
  }
 
  let offset = 0;
