@@ -2,5 +2,9 @@
 ------
 Тестовое задание для веб-студии VH-PROJECT.
 
-Ссылка на задание: https://vladiskharchenko.github.io/VH-PROJECT/
+Требуется доделать:
+
+1) Сделать слайдер адаптивным.
+
+Ссылка на готовое задание: https://vladiskharchenko.github.io/VH-PROJECT/
 
